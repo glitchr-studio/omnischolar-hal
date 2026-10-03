@@ -1,0 +1,36 @@
+{
+  "response":{
+    "numFound":1,
+    "start":0,
+    "maxScore":5.571932,
+    "numFoundExact":true,
+    "docs":[{
+      "docid":"2489392",
+      "linkExtUrl_s":"https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-10-151.pdf",
+      "linkExtId_s":"openaccess",
+      "openAccess_bool":true,
+      "domainAllCode_s":["chim.orga"],
+      "title_s":["Multichromophoric sugar for fluorescence photoswitching"],
+      "keyword_s":["Photochromism","Monosaccharide","Fluorophore","Energy transfer","Click chemistry"],
+      "abstract_s":["A multichromophoric glucopyranoside 2 bearing three dicyanomethylenepyran (DCM) fluorophores and one diarylethene (DAE) photochrome has been prepared by Cu(I)-catalyzed alkyne-azide cycloaddition reaction. The fluorescence of 2 was switched off upon UV irradiation, in proportion with the open to closed form (OF to CF) conversion extent of the DAE moiety. A nearly 100% Förster-type resonance energy transfer (FRET) from all three DCM moieties to a single DAE (in its CF) moiety was achieved. Upon visible irradiation, the initial fluorescence intensity was recovered. The observed photoswiching is reversible, with excellent photo resistance."],
+      "journalTitle_s":"Beilstein Journal of Organic Chemistry",
+      "journalPublisher_s":"Beilstein-Institut",
+      "journalIssn_s":"1860-5397",
+      "authLastName_s":["Maisonneuve","Métivier","Yu","Nakatani","Xie"],
+      "authFirstName_s":["Stéphane","Rémi","Pei","Keitaro","Juan"],
+      "authQuality_s":["aut","aut","aut","aut","aut"],
+      "authFullNamePersonIDIDHal_fs":["Stéphane Maisonneuve_FacetSep_182759_FacetSep_stephane-maisonneuve","Rémi Métivier_FacetSep_741588_FacetSep_remi-metivier","Pei Yu_FacetSep_750501_FacetSep_pei-yu","Keitaro Nakatani_FacetSep_842238_FacetSep_","Juan Xie_FacetSep_1071175_FacetSep_joanne-xie"],
+      "language_s":["en"],
+      "halId_s":"hal-02489392",
+      "uri_s":"https://hal.science/hal-02489392v1",
+      "docType_s":"ART",
+      "page_s":"1471-1481",
+      "volume_s":"10",
+      "doiId_s":"10.3762/bjoc.10.151",
+      "producedDate_s":"2014",
+      "producedDateY_i":2014,
+      "fileMain_s":"https://hal.science/hal-02489392/document",
+      "licence_s":"https://about.hal.science/hal-authorisation-v1/"
+    }]
+  }
+}

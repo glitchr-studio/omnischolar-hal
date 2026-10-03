@@ -1,0 +1,88 @@
+{
+  "response":{
+    "numFound":8,
+    "start":0,
+    "numFoundExact":true,
+    "docs":[{
+      "person_i":741588,
+      "firstName_s":"R.",
+      "lastName_s":"Métivier",
+      "fullName_s":"R. Métivier",
+      "valid_s":"OLD",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    },{
+      "person_i":741588,
+      "firstName_s":"Rémi",
+      "lastName_s":"Métivier",
+      "fullName_s":"Rémi Métivier",
+      "valid_s":"PREFERRED",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    },{
+      "person_i":741588,
+      "firstName_s":"Remi",
+      "lastName_s":"Metivier",
+      "fullName_s":"Remi Metivier",
+      "valid_s":"OLD",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    },{
+      "person_i":741588,
+      "firstName_s":"Remì",
+      "lastName_s":"Metivier",
+      "fullName_s":"Remì Metivier",
+      "valid_s":"OLD",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    },{
+      "person_i":741588,
+      "firstName_s":"Rémi",
+      "lastName_s":"Metivier",
+      "fullName_s":"Rémi Metivier",
+      "valid_s":"OLD",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    },{
+      "person_i":741588,
+      "firstName_s":"Remi",
+      "lastName_s":"Métivier",
+      "fullName_s":"Remi Métivier",
+      "valid_s":"OLD",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    },{
+      "person_i":741588,
+      "firstName_s":"R",
+      "lastName_s":"Métivier",
+      "fullName_s":"R Métivier",
+      "valid_s":"OLD",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    },{
+      "person_i":741588,
+      "firstName_s":"R",
+      "lastName_s":"Metivier",
+      "fullName_s":"R Metivier",
+      "valid_s":"OLD",
+      "researcheridId_s":["http://www.researcherid.com/rid/A-7600-2008","http://www.researcherid.com/rid/A-7600-2008"],
+      "orcidId_s":["https://orcid.org/0000-0001-5612-8327"],
+      "idHal_s":"remi-metivier",
+      "idrefId_s":["https://www.idref.fr/174209193"]
+    }]
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "omnischolar/hal",
+    "type": "library",
+    "description": "Omnischolar HAL: the deposits of the French open archive by idHAL, ORCID or name, their open-access full texts, and a filter by domain (shs.droit for legal scholarship) - no key.",
+    "keywords": [
+        "scholarly",
+        "publications",
+        "hal",
+        "open-archive",
+        "doctrine",
+        "shs",
+        "omnischolar"
+    ],
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Marco Meyer",
+            "email": "marco.meyer@glitchr.io"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "glitchr/omnischolar": "^1.0@dev",
+        "symfony/http-client": "^6.4|^7.0|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Omnischolar\\Hal\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Omnischolar\\Hal\\Tests\\": "Tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
